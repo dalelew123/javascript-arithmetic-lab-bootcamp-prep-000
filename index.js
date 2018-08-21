@@ -1,3 +1,3 @@
-a = 5
-b = 7
+var a = 5
+var b = 7
 a + b
